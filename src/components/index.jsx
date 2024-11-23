@@ -1,0 +1,10 @@
+export { default as Nav } from "./nav";
+export { default as HeroSection } from "./hero-section";
+export { default as Brands } from "./brands";
+export { default as Featers } from "./featers";
+export { default as Textemonial } from "./textemonial";
+export { default as Featers2 } from "./featers-2";
+export { default as Faq } from "./faq";
+export { default as Blog } from "./blog";
+export { default as Contact } from "./contact";
+export { default as Footer } from "./footer";
